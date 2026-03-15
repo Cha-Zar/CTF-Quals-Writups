@@ -1,0 +1,1 @@
+writups for CTF Quals Securicon Crypto/misc
