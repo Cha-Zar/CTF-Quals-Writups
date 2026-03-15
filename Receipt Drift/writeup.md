@@ -57,3 +57,8 @@ The solver performs the following steps:
 - **State Generation:** Iterates the LCG to generate the sequence $x_0, x_1, \dots, x_6$.
 - **Submission:** Sends the predicted values $x_1$ to $x_6$ back to the server.
 
+## Flag
+
+Upon successful prediction, the server returns the flag:
+
+`Securicon{L0tt3ry_15_r15ky}`
